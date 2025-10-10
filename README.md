@@ -6,3 +6,6 @@
 **homework_02** - n-граммы 
 
 **homework_03** - лексическая дизамбигуация (нужно скачать, окрывается в colab и vscode) 
+
+**homework_04** - text corpora 
+
