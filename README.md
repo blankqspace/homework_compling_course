@@ -1,7 +1,7 @@
 # homework_compling_course
-**ABOUT**: repository with homework notebooks
+:thought_balloon: **ABOUT**: repository with homework notebooks
 
-# *DEMO homeworks*
+# *DEMO*
 
 **homework_01** - регулярные выражения
 
@@ -13,6 +13,6 @@
 
 **homework_05** - basic llms
 
-# *HOMEWORKS 1 MODULE*
+# *1 MODULE*
 
 **preprocessing_homework** - токенизация, лемматизация mystem, pymorphy, spacy 
