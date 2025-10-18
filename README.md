@@ -13,6 +13,6 @@
 
 :pushpin:**homework_05** - basic llms
 
-# :closed_book: *1 MODULE* 
+# :ledger: *1 MODULE* 
 
 :pushpin:**preprocessing_homework** - токенизация, лемматизация mystem, pymorphy, spacy 
