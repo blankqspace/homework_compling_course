@@ -7,7 +7,7 @@
 
 :pushpin:**homework_02** - n-граммы 
 
-:pushpin:**homework_03** - лексическая дизамбигуация (нужно скачать, окрывается в colab и vscode) 
+:pushpin:**homework_03** - лексическая дизамбигуация
 
 :pushpin:**homework_04** - text corpora 
 
