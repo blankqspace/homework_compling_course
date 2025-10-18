@@ -1,6 +1,7 @@
 # homework_compling_course
 **ABOUT**: repository with homework notebooks
 
+*DEMO homeworks*
 **homework_01** - регулярные выражения
 
 **homework_02** - n-граммы 
@@ -9,3 +10,8 @@
 
 **homework_04** - text corpora 
 
+**homework_05** - basic llms
+
+*homeworks*
+
+**preprocessing_homework** - токенизация, лемматизация mystem, pymorphy, spacy 
