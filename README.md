@@ -25,3 +25,9 @@
 :pushpin:**bow_homework** - bag of words, vectorizer
 
 :pushpin:**llms_intro** - basic text generation
+
+:pushpin:**word2vec_homework** - word2vec embeddings
+
+:pushpin:**cnn_homework** - convolutional neural networks 
+
+
