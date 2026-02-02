@@ -30,4 +30,10 @@
 
 :pushpin:**cnn_homework** - convolutional neural networks 
 
+:pushpin:**rnn_homework** - recurrent neural networks
+
+# :ledger: *3 module* 
+
+:pushpin:**transfer_leaning_homework** - bert fine-tuning 
+
 
