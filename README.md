@@ -35,7 +35,9 @@
 # :ledger: *3 module* 
 
 :pushpin:**transfer_leaning_homework** - bert fine-tuning 
+
 :pushpin: **machine_translation** - multilingual translator 
+
 :pushpin: **instruct fine-tuning** - LoRA adaptor 
 
 
